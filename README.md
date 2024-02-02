@@ -1,2 +1,3 @@
 # demo2
-newdemo
+New Demo
+try another way
